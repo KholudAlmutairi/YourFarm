@@ -16,17 +16,17 @@ In an era characterized by increasing awareness of the importance of preserving 
 -acceptOrderPlant
 -rejectOrderPlant 
 -updateStatusOrderPlant 
--rejectOrderGuidance
--updateStatusOrderGuidance
--accepctOrderGuidance 
--acceptOrderFarmer 
--rejectOrderFarmer
--updateStatusOrderFarmer
--searchFarmsNear 
--searchFarmerNear 
--findPlantByName 
--searchSpecialistsNear 
--acceptContract
+- rejectOrderGuidance
+- updateStatusOrderGuidance
+- accepctOrderGuidance 
+- acceptOrderFarmer 
+- rejectOrderFarmer
+- updateStatusOrderFarmer
+- searchFarmsNear 
+- searchFarmerNear 
+- findPlantByName 
+- searchSpecialistsNear 
+- acceptContract
 
 
 # Our team:
