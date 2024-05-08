@@ -13,20 +13,20 @@ In an era characterized by increasing awareness of the importance of preserving 
 # Total project endpoints:55
 
 # My endpoints:
-acceptOrderPlant
-rejectOrderPlant 
-updateStatusOrderPlant 
-rejectOrderGuidance
-updateStatusOrderGuidance
-accepctOrderGuidance 
-acceptOrderFarmer 
-rejectOrderFarmer
-updateStatusOrderFarmer
-searchFarmsNear 
-searchFarmerNear 
-findPlantByName 
-searchSpecialistsNear 
-acceptContract
+-acceptOrderPlant
+-rejectOrderPlant 
+-updateStatusOrderPlant 
+-rejectOrderGuidance
+-updateStatusOrderGuidance
+-accepctOrderGuidance 
+-acceptOrderFarmer 
+-rejectOrderFarmer
+-updateStatusOrderFarmer
+-searchFarmsNear 
+-searchFarmerNear 
+-findPlantByName 
+-searchSpecialistsNear 
+-acceptContract
 
 
 # Our team:
@@ -43,3 +43,4 @@ acceptContract
 - Spring Security
    
 # Email:
+ kholudalmutairi00@gmail.com
