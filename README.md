@@ -13,9 +13,9 @@ In an era characterized by increasing awareness of the importance of preserving 
 # Total project endpoints:55
 
 # My endpoints:
- -acceptOrderPlant
- -rejectOrderPlant 
- -updateStatusOrderPlant 
+- acceptOrderPlant
+- rejectOrderPlant 
+- updateStatusOrderPlant 
 - rejectOrderGuidance
 - updateStatusOrderGuidance
 - accepctOrderGuidance 
