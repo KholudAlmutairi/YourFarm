@@ -10,6 +10,15 @@ In an era characterized by increasing awareness of the importance of preserving 
 # Class diagram:
 ![description](https://cdn.discordapp.com/attachments/1234214915905032258/1237540346972602459/D7D579F4-BF13-4288-9C32-FD2CB42E1FAE.png?ex=663c04c3&is=663ab343&hm=22eceb999247825e9e5bc53a12fab84968c94359cb0eb823d2edeebdf37f866d&)
 
+# Presentation:
+![description](https://www.canva.com/design/DAGEfqykIek/coZOJ0nR08OhZsNx1ioRVQ/view?utm_content=DAGEfqykIek&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+
+# Figma: Interfaces that mimic the backend of "your farm" website.
+ ![description](https://www.figma.com/file/BTAs51j7ptP69PDxucF7l4/Your-Farm?type=design&node-id=0%3A1&mode=design&t=FryjejfieVLDcIYm-1)
+
+# Postman Documentaion:
+ ![description](https://documenter.getpostman.com/view/25544157/2sA3JKc29B#9315701a-08be-447c-a529-88e3e1b2497b).
+
 # Total project endpoints:55
 
 # My endpoints:
@@ -44,3 +53,6 @@ In an era characterized by increasing awareness of the importance of preserving 
    
 # Email:
  kholudalmutairi00@gmail.com
+
+# Linkedin:
+![description](https://www.linkedin.com/in/kholud-almutairi-7a0a11248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
